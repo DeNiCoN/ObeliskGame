@@ -1,0 +1,14 @@
+name: ObelisksGame
+main: ua.denicon.obelisks.Main
+version: 1.0
+authors: [DeNiCoN, DarkLex]
+
+commands:
+  stat:
+    usage: /stat
+  getob:
+  team:
+  faststart:
+  spawnpar:
+  setobelisk:
+  coins:

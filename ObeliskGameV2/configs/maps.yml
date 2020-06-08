@@ -1,0 +1,9 @@
+waitingLobby:
+  world: world
+  x: 0
+  y: 10
+  z: 30
+#Конфиги обелисков называть начиная с ноля (obeliskData0,obeliskData1,obeliskData2 и тд)
+maps:
+  1: #Номер карты
+    name: Name #Имя карты

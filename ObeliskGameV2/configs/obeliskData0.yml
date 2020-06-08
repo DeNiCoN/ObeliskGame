@@ -1,0 +1,30 @@
+serverWorldName: world
+timeInSec: 900
+gameType: DEFAULT  #DEFAULT, ELIMINATION
+teams:  # id цвета команды(метадата шерсти: 4 - желтый, 5 - лаймовый, 6 - розовый, 3 - голубой, 10 - фиолетовый, 11 - Синий, 13 - зелёный, 14 - красный) Все цвета должны быть разные!!!
+  11:   # синие
+    x: 0
+    y: 0
+    z: 0
+  14:   # красные
+    x: 0
+    y: 0
+    z: 0
+defaultItems:
+  swordRate: 0
+  bowRate: -1
+  helmRate: -1
+  chestRate: -1
+  legRate: -1
+  bootRate: -1
+obelisk:
+  0:
+    item: SWORD    # Item name (WOOD/STONE/IRON/DIAMOND_SWORD, BOW, LEATHER/CHAINMAIL/GOLD/IRON/DIAMOND_HELMET/CHESTPLATE/LEGGINGS/BOOTS, WeaponEnch, BowEnch, LeggingsEnch, BootsEnch, ChestplateEnch, HelmetEnch, SWORD, HELMET, CHESTPLATE, LEGGINGS, BOOTS)
+    enchant: none       # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/enchantments/Enchantment.html
+    rate: 2
+    needRate: 0
+    x: 0
+    y: 0
+    z: 0
+    radius: 3
+    team:     # can be null

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ObeliskGameV2:jar">
+    <output-path>D:/ob</output-path>
+    <root id="archive" name="ObeliskGameV2.jar">
+      <element id="module-output" name="ObeliskGameV2" />
+      <element id="file-copy" path="$PROJECT_DIR$/maps.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/MySQL.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/obeliskData0.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
