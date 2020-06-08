@@ -1,0 +1,2 @@
+# ObeliskGame
+Minecraft plugin minigame
